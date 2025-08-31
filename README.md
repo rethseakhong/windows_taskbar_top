@@ -69,7 +69,7 @@ pip install pyinstaller
 2. Build the executable:
 
 ```bash
-pyinstaller --noconsole --onefile windows_taskbar_top.py
+pyinstaller --noconsole --onefile main.py
 ```
 
 - `--noconsole` → prevents the terminal from showing  
